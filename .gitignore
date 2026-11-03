@@ -1,0 +1,11 @@
+build/
+.build/
+.swiftpm/
+*.xcodeproj/
+App/Info.plist
+Preview/Info.plist
+Preview/*.entitlements
+Thumbnail/Info.plist
+Thumbnail/*.entitlements
+xcuserdata/
+.DS_Store
